@@ -1,5 +1,5 @@
 import random
-import fitz # pymupdf library that worok with pdf
+import fitz # pymupdf library that works with pdf
 from PIL import Image # for displaying images
 import customtkinter as custk # GUI
 
